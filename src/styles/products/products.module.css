@@ -1,0 +1,23 @@
+.product {
+    padding: 10px 0px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+
+.productsBar {
+    margin-top: 10px;
+    padding: 10px 10px;
+    background-color: rgb(245, 242, 211);
+    color: gray;
+    text-align: end;
+    font-weight: 700;
+    display: flex;
+    justify-content: flex-end;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.productCard {
+    border: 0;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
