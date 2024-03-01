@@ -1,0 +1,15 @@
+.footer {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(44, 44, 44);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+
+}
+
+.innerFooter {
+    width: 95%;
+    border-bottom: 1px solid gray;
+    display: flex;
+}

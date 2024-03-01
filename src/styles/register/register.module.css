@@ -1,0 +1,21 @@
+.register {
+    height: 100vh;
+    padding: 15px 0px;
+}
+
+.innerForm {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerForm .formTags {
+    display: flex;
+    flex-direction: column;
+}
+
+.innerForm label span {
+    color: red;
+}

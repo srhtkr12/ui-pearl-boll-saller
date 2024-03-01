@@ -1,0 +1,15 @@
+.navBar {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: #fff;
+}
+
+.innnerNavBar {
+    margin: 0;
+    padding: 0;
+}
+
+.routeBar{
+    /* background-color: gray; */
+}
